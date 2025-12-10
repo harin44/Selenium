@@ -247,14 +247,7 @@
 * QA focuses on preventing defects.
 * QE focuses on continuous quality improvement using automation and engineering practices.
 
----
 
-If you want, I can also generate:
-
-* A condensed one-page cheat sheet
-* A PDF version
-* A version with sample answers tailored to your experience
-* A set of mock interview questions and answers tailored to your resume
 
 
 
